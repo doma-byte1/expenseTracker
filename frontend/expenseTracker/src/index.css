@@ -1,0 +1,10 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root{
+    height: 100vh;
+    background-color: rgb(29, 78, 216);
+    font-size: large;
+}
